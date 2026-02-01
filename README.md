@@ -7,10 +7,6 @@ Built using the **MERN stack** with a clean and modular architecture.
 
 ---
 
-## 🚀 Features
-
-### 👨‍⚕️ User
-=======
 ## Features
 
 ### 👨User
@@ -119,8 +115,4 @@ frontend/
 
 
 ## GitHub Link: 
-<<<<<<< HEAD
 https://github.com/saisree-coder/Doctor-Appointment-System-DocSpot/
-=======
-https://github.com/saisree-coder/Doctor-Appointment-System-DocSpot/
->>>>>>> f963865a95b8f3d184e13f35822452b1a721fc19
