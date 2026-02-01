@@ -1,7 +1,4 @@
-# 🩺 Doctor Appointment System
-
-=======
-# Doctor-Appointment-System-DocSpot
+# 🩺Doctor-Appointment-System-DocSpot
 A full-stack web application that allows users to view approved doctors and book appointments seamlessly.  
 Built using the **MERN stack** with a clean and modular architecture.
 
